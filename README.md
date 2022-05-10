@@ -1,7 +1,7 @@
 <!--
     Inspired by https://raw.githubusercontent.com/braydoncoyer/braydoncoyer/main/README.md
 -->
-[![thesp0nge's GitHub Banner](./assets/logo.png)](https://codiceinsicuro.it)
+<!-- [![thesp0nge's GitHub Banner](./assets/logo.png)](https://codiceinsicuro.it) -->
 
 [![Visits Badge](https://badges.pufler.dev/visits/thesp0nge/thesp0nge)](https://codiceinsicuro.it)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thesp0nge)
