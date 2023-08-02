@@ -17,11 +17,11 @@ I wrote also a static code analyzer for ruby written applications,
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Caro diario eccoci qui…](https://codiceinsicuro.it/2022/10/27/caro-diario-eccoci-qui/)
+- [GCC, analisi statica e warning mancanti](https://codiceinsicuro.it/blog/gcc-analisi-statica-e-warning-mancanti/)
+- [Caro diario eccoci qui&amp;#8230;](https://codiceinsicuro.it/2022/10/27/caro-diario-eccoci-qui/)
 - [Cosa fa un security engineer in SUSE?](https://codiceinsicuro.it/2022/05/24/cosa-fa-un-security-engineer-in-suse/)
-- [Sono tutti open con il source degli altri – reprise](https://codiceinsicuro.it/2022/05/10/sono-tutti-open-con-il-source-degli-altri-reprise/)
+- [Sono tutti open con il source degli altri &amp;#8211; reprise](https://codiceinsicuro.it/2022/05/10/sono-tutti-open-con-il-source-degli-altri-reprise/)
 - [Password vs Passphrase: la cracking challenge](https://codiceinsicuro.it/2022/04/21/password-vs-passphrase-la-cracking-challenge/)
-- [Non mettete regole troppo complesse alle vostre password](https://codiceinsicuro.it/2022/04/16/non-mettete-regole-troppo-complesse-alle-vostre-password/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
