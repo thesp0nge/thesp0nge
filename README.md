@@ -10,7 +10,7 @@ Hi there 👋
 
 I'm Paolo, a senior application security engineer. After some time spent doing
 penetration tests, I'm now focused on security code reviews and software
-architectural audit for [SUSE Linux](https://www.suse.com).
+architectural audit for [Kong](https://www.konghq.com).
 I love writing code and applying TDD and BDD with secure bonding principle and
 I wrote also a static code analyzer for ruby written applications,
 [dawnscanner](https://github.com/thesp0nge/dawnscanner).
