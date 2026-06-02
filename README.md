@@ -17,11 +17,11 @@ I wrote also a static code analyzer for ruby written applications,
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [NGINX PoolSlip &amp;amp; NGINX Rift: When the Internet’s Favorite Reverse Proxy Turns Against Itself](https://armoredcode.com/blog/nginx-poolslip-nginx-rift-reverse-proxy-rce/)
-- [Signal Engine 0.3.0: From Raw Findings to Real Signal](https://armoredcode.com/blog/signal-engine-0.3.0-from-findings-to-signal/)
-- [Soak: Deep-Tissue Static Analysis as an Execution Layer](https://armoredcode.com/blog/soak-deep-tissue-static-analysis-as-an-execution-layer/)
-- [Aggregating Semgrep Results: Top Rules, Files, and Clusters &lpar;MVP Demo&rpar;](https://armoredcode.com/blog/aggregating-semgrep-results-mvp-demo/)
-- [Why Most Security Findings Are Misunderstood](https://armoredcode.com/blog/why-most-security-findings-are-misunderstood/)
+- [Programmazione Difensiva: Chiudere la Finestra su una Race Condition Critica](https://codiceinsicuro.it/blog/programmazione-difensiva-chiudere-la-finestra-su-una-race-condition-critica/)
+- [GCC, analisi statica e warning mancanti](https://codiceinsicuro.it/blog/gcc-analisi-statica-e-warning-mancanti/)
+- [Caro diario eccoci qui&amp;#8230;](https://codiceinsicuro.it/2022/10/27/caro-diario-eccoci-qui/)
+- [Cosa fa un security engineer in SUSE?](https://codiceinsicuro.it/2022/05/24/cosa-fa-un-security-engineer-in-suse/)
+- [Sono tutti open con il source degli altri &amp;#8211; reprise](https://codiceinsicuro.it/2022/05/10/sono-tutti-open-con-il-source-degli-altri-reprise/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
