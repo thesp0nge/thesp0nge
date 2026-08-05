@@ -17,11 +17,11 @@ I wrote also a static code analyzer for ruby written applications,
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Programmazione Difensiva: Chiudere la Finestra su una Race Condition Critica](https://codiceinsicuro.it/blog/programmazione-difensiva-chiudere-la-finestra-su-una-race-condition-critica/)
-- [GCC, analisi statica e warning mancanti](https://codiceinsicuro.it/blog/gcc-analisi-statica-e-warning-mancanti/)
-- [Caro diario eccoci qui&amp;#8230;](https://codiceinsicuro.it/2022/10/27/caro-diario-eccoci-qui/)
-- [Cosa fa un security engineer in SUSE?](https://codiceinsicuro.it/2022/05/24/cosa-fa-un-security-engineer-in-suse/)
-- [Sono tutti open con il source degli altri &amp;#8211; reprise](https://codiceinsicuro.it/2022/05/10/sono-tutti-open-con-il-source-degli-altri-reprise/)
+- [Security Wals: il podcast](http://0.0.0.0:4000/blog/security-walks-il-podcast/)
+- [Programmazione Difensiva: Chiudere la Finestra su una Race Condition Critica](http://0.0.0.0:4000/blog/programmazione-difensiva-chiudere-la-finestra-su-una-race-condition-critica/)
+- [GCC, analisi statica e warning mancanti](http://0.0.0.0:4000/blog/gcc-analisi-statica-e-warning-mancanti/)
+- [Caro diario eccoci qui&amp;#8230;](http://0.0.0.0:4000/2022/10/27/caro-diario-eccoci-qui/)
+- [Cosa fa un security engineer in SUSE?](http://0.0.0.0:4000/2022/05/24/cosa-fa-un-security-engineer-in-suse/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
