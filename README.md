@@ -1,19 +1,168 @@
-<!--
-    Inspired by https://raw.githubusercontent.com/braydoncoyer/braydoncoyer/main/README.md
--->
-<!-- [![thesp0nge's GitHub Banner](./assets/logo.png)](https://codiceinsicuro.it) -->
+<div align="center">
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thesp0nge)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paolo-perego/)
+# Paolo Perego
 
-Hi there 👋
+### Application & Product Security Engineer
 
-I'm Paolo, a senior application security engineer. After some time spent doing
-penetration tests, I'm now focused on security code reviews and software
-architectural audit for [Kong](https://www.konghq.com).
-I love writing code and applying TDD and BDD with secure bonding principle and
-I wrote also a static code analyzer for ruby written applications,
-[dawnscanner](https://github.com/thesp0nge/dawnscanner).
+**I read code, break assumptions and build open-source security tooling.**
+
+`Code Review` · `Vulnerability Research` · `Static Analysis` · `Security Tooling`
+
+---
+
+> **Security doesn't need more findings.**  
+> It needs better signal, better context and better engineering judgment.
+
+</div>
+
+<br>
+
+## 👋 About me
+
+I've spent more than two decades working where **software engineering and security meet**.
+
+I like security when it gets close to the code: reviewing it, understanding how it can fail, validating vulnerabilities and building tools that help engineers make better security decisions.
+
+My main interests are:
+
+- 🔍 Application & Product Security
+- 🧬 Security-focused code review
+- 🎯 Vulnerability research
+- 🌳 Static analysis and data-flow analysis
+- 🛠️ Open-source security tooling
+- 🤖 AI-assisted vulnerability research
+- 🧠 Turning security noise into actionable signal
+
+<br>
+
+## 🛠️ Things I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 DRSource
+
+**Follow untrusted data through real code.**
+
+A multi-language static analysis engine focused on security-relevant data flows, inter-file taint tracking and contextual vulnerability analysis.
+
+`SAST` `Tree-sitter` `Taint Analysis` `SARIF`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📡 Signal Engine
+
+**Turn security findings into signal.**
+
+A security intelligence engine that normalizes, deduplicates, clusters and prioritizes findings from multiple security tools.
+
+`Security Automation` `SARIF` `Clustering` `Risk Analysis`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🕷️ Nightcrawler
+
+**From suspicious traffic to validated findings.**
+
+A mitmproxy-based security researcher's sidekick for passive analysis, targeted active testing, confidence scoring and reproducible PoCs.
+
+`Web Security` `mitmproxy` `Dynamic Analysis` `PoC`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌅 Dawnscanner
+
+**Where my security tooling journey started.**
+
+An open-source static analysis security scanner for Ruby web applications.
+
+Built years ago. Still one of the projects that best represents how I think about security: get close to the code and give developers useful information.
+
+`Ruby` `SAST` `Application Security` `Open Source`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧭 What I'm exploring now
+
+I'm particularly interested in the space between **finding something suspicious** and being able to say:
+
+> _"Yes. This is actually a vulnerability, this is why it matters, and this is what we should do about it."_
+
+That means exploring areas such as:
+
+- inter-procedural and inter-file source analysis
+- vulnerability validation
+- security finding correlation
+- confidence scoring
+- developer-centric security workflows
+- AI-assisted security research
+- reducing false positives without losing meaningful signal
+
+<br>
+
+## ✍️ Writing
+
+### Armored Code
+
+My English-language technical home for:
+
+**Application Security · Vulnerability Research · Code Review · Security Tooling**
+
+A recurring theme in my work is simple:
+
+> **Signal what matters. Ignore the rest.**
+
+### Codice Insicuro
+
+My long-running Italian publication about secure development, code review, cybersecurity and software security.
+
+<br>
+
+## 🎙️ Security Walks
+
+I also host **Security Walks**, a short-form Italian cybersecurity podcast covering vulnerabilities, security news and technology without unnecessary noise.
+
+<br>
+
+## 🌍 Open source
+
+I've been contributing to and building open-source software for a large part of my career.
+
+I believe security tooling works best when engineers can:
+
+1. understand what the tool is doing;
+2. challenge its assumptions;
+3. reproduce its findings;
+4. improve it.
+
+That's one of the reasons I keep building in public.
+
+<br>
+
+---
+
+<div align="center">
+
+### Security is not about generating more alerts.
+
+**It's about understanding which ones matter.**
+
+`Application Security` · `Vulnerability Research` · `Open Source`
+
+</div>
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
