@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-profile-banner.png"
+  <img src="assets/github_banner.png"
        alt="Paolo Perego — Security Engineering, Vulnerability Research & Open Source Tooling"
        width="100%">
 </p>
