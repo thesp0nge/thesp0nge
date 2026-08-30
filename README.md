@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/github-profile-banner.png"
+       alt="Paolo Perego — Security Engineering, Vulnerability Research & Open Source Tooling"
+       width="100%">
+</p>
+
 <div align="center">
 
 # Paolo Perego
