@@ -172,11 +172,11 @@ That's one of the reasons I keep building in public.
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Was Never Trying to Build Just Another SAST](https://armoredcode.com/blog/i-was-never-trying-to-build-just-another-sast/)
 - [Is Your Product Security Engineer Going to Be Replaced?](https://armoredcode.com/blog/is-your-product-security-engineer-going-to-be-replaced/)
 - [NGINX PoolSlip &amp;amp; NGINX Rift: When the Internet’s Favorite Reverse Proxy Turns Against Itself](https://armoredcode.com/blog/nginx-poolslip-nginx-rift-reverse-proxy-rce/)
 - [Signal Engine 0.3.0: From Raw Findings to Real Signal](https://armoredcode.com/blog/signal-engine-0.3.0-from-findings-to-signal/)
 - [Soak: Deep-Tissue Static Analysis as an Execution Layer](https://armoredcode.com/blog/soak-deep-tissue-static-analysis-as-an-execution-layer/)
-- [Aggregating Semgrep Results: Top Rules, Files, and Clusters &lpar;MVP Demo&rpar;](https://armoredcode.com/blog/aggregating-semgrep-results-mvp-demo/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
